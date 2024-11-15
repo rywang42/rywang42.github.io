@@ -1,0 +1,323 @@
+---
+name: "watercolour"
+arts:
+- image: "images/galleries/watercolour/-1.JPG"
+  order: "1"
+  title: "Christmas cards 2022"
+  description: "To my friends!"
+
+- image: "images/galleries/watercolour/0.JPG"
+  order: "2"
+  title: "Christmas cards 2022"
+  description: "To our 'beloved supervisors', featuring squirrels and squashes"
+
+- image: "images/galleries/watercolour/1.JPG"
+  order: "3"
+  title: "A collection of earlier urban sketching practices"
+  description: ""
+
+- image: "images/galleries/watercolour/2.JPG"
+  order: "4"
+  title: "River Cam"
+  description: ""
+
+- image: "images/galleries/watercolour/3.JPG"
+  order: "5"
+  title: "All Saint's Garden"
+  description: "There are several cherry blossom trees and a tiny art fair every Saturday."
+
+- image: "images/galleries/watercolour/4.JPG"
+  order: "6"
+  title: "Queen's Road"
+  description: "In an autumn afternoon."
+
+- image: "images/galleries/watercolour/5.JPG"
+  order: "7"
+  title: "Great Gate Lawn"
+  description: "Featuring 'Newton's Apple Tree' (am I intentionally disclosing a WiFi password?); a pretty common meeting spot."
+
+- image: "images/galleries/watercolour/6.JPG"
+  order: "8"
+  title: "Green Street"
+  description: "With festive banners under the sun."
+
+- image: "images/galleries/watercolour/7.JPG"
+  order: "9"
+  title: "A collection of earlier urban sketching practices"
+  description: "We call it - department of chemistry!"
+
+- image: "images/galleries/watercolour/8.JPG"
+  order: "10"
+  title: "Yusuf Hamied Department of Chemistry"
+  description: "The turquoise roof looks both very industrial (~ ugly) and oddly aesthetic to me."
+
+- image: "images/galleries/watercolour/9.JPG"
+  order: "11"
+  title: "A collection of earlier urban sketching practices"
+  description: ""
+
+- image: "images/galleries/watercolour/10.JPG"
+  order: "12"
+  title: "A collection of mixed-media experiments"
+  description: "(Adapted from Pinterest images)"
+
+- image: "images/galleries/watercolour/11.JPG"
+  order: "13"
+  title: "Village Path"
+  description: "(Adapted from Pinterest images)"
+
+- image: "images/galleries/watercolour/12.JPG"
+  order: "14"
+  title: "House with a red roof"
+  description: "(Adapted from Pinterest images)"
+
+- image: "images/galleries/watercolour/13.JPG"
+  order: "15"
+  title: "A Coastal Scene"
+  description: "(Adapted from Pinterest images)"
+
+- image: "images/galleries/watercolour/14.JPG"
+  order: "16"
+  title: "Starry Night"
+  description: "(Adapted from Pinterest images)"
+
+- image: "images/galleries/watercolour/15.JPG"
+  order: "17"
+  title: "Random illustrations of Marjoram"
+  description: "I suppose at that moment I was particularly interested in different herbs..."
+
+- image: "images/galleries/watercolour/16.JPG"
+  order: "18"
+  title: "Origami Robin"
+  description: "One of my (not very successful) origami attempts, dedicated to a small orange bird who routinely visited me (uninvitedly) during Michaelmas and Lent, 2023."
+
+- image: "images/galleries/watercolour/17.JPG"
+  order: "19"
+  title: "Assorted pressed flower bookmarks"
+  description: "They were sourced (or 'stolen') from Trinity College and Botanic Garden, and pressed using old books sourced (or again, 'stolen') from the college library."
+
+- image: "images/galleries/watercolour/18.JPG"
+  order: "20"
+  title: "Jesus Lock Footbridge"
+  description: "I drew this right after my last exam."
+
+- image: "images/galleries/watercolour/19.JPG"
+  order: "21"
+  title: "Magdalene Bridge"
+  description: "There will possibly be punters advertising their punting trips to you."
+
+- image: "images/galleries/watercolour/20.JPG"
+  order: "22"
+  title: "Castle Street"
+  description: "On the way to Castle Mound; the waiting time of traffic lights here is surprisingly long."
+
+- image: "images/galleries/watercolour/21.JPG"
+  order: "23"
+  title: "Castle Mound"
+  description: "Allegedly the highest 'mountain' in Cambridge."
+
+- image: "images/galleries/watercolour/22.JPG"
+  order: "24"
+  title: "Burrell's Field"
+  description: "The scene that I saw when I was mindlessly staring at the treetops and feeling anxious before a statistical mechanics supervision."
+
+- image: "images/galleries/watercolour/23.JPG"
+  order: "25"
+  title: "Garret Hostel Bridge"
+  description: "AKA The Orgasm Bridge (⌒▽⌒)"
+
+- image: "images/galleries/watercolour/24.JPG"
+  order: "26"
+  title: "CUP Bookshop"
+  description: "They have got a whole stand of cool scientific greeting cards and postcards there!"
+
+- image: "images/galleries/watercolour/25.JPG"
+  order: "27"
+  title: "Rose Crescent"
+  description: "A busy street full of shops, with an unmatched, poetic name."
+
+- image: "images/galleries/watercolour/26.JPG"
+  order: "28"
+  title: "Market Square"
+  description: "From the top of Great St Mary's, the University Church, with someone who brought a pair of fancy binoculars with him."
+
+- image: "images/galleries/watercolour/27.JPG"
+  order: "29"
+  title: "Corn Exchange"
+  description: "A public entertainment site where I had several of my exams."
+
+- image: "images/galleries/watercolour/28.JPG"
+  order: "30"
+  title: "Trumpington Street"
+  description: "Fitzwilliam Museum in a clear, sunny day."
+
+- image: "images/galleries/watercolour/29.JPG"
+  order: "31"
+  title: "Lensfield Road"
+  description: "The Church of Our Lady and the English Martyrs, Cambridge."
+
+- image: "images/galleries/watercolour/30.JPG"
+  order: "32"
+  title: "Yusuf Hamied Department of Chemistry"
+  description: "The main building."
+
+- image: "images/galleries/watercolour/31.JPG"
+  order: "33"
+  title: "Yusuf Hamied Department of Chemistry"
+  description: "Bike racks in a sunset, next to the BMS entrance."
+
+- image: "images/galleries/watercolour/32.JPG"
+  order: "34"
+  title: "Hills Road"
+  description: "The Church of Our Lady and the English Martyrs, Cambridge."
+
+- image: "images/galleries/watercolour/33.JPG"
+  order: "35"
+  title: "The Fountain"
+  description: "Great Court, Trinity College"
+
+- image: "images/galleries/watercolour/34.JPG"
+  order: "36"
+  title: "The Fountain"
+  description: "Great Court, Trinity College"
+
+- image: "images/galleries/watercolour/35.JPG"
+  order: "37"
+  title: "Magdalene Street"
+  description: "Going along the Magdalene Street, heading to the hill"
+
+- image: "images/galleries/watercolour/36.JPG"
+  order: "38"
+  title: "Yusuf Hamied Department of Chemistry"
+  description: "Well, I have no idea where I can get such perfect view; instead, google map offered me the chance."
+
+- image: "images/galleries/watercolour/37.JPG"
+  order: "39"
+  title: "The ante-chapel, Trinity College"
+  description: "Newton's statue in the ante-chapel, where people gather when fire alarms go off."
+
+- image: "images/galleries/watercolour/38.JPG"
+  order: "40"
+  title: "After Frances Ives - A Copy of 'To the Maypole'"
+  description: "A local illustrator in Cambridge with very expressive mixed-media artworks! I ran into this amazing piece in the window of Cambridge Contemporary Art."
+
+- image: "images/galleries/watercolour/39.JPG"
+  order: "41"
+  title: "Reality Checkpoint, Parker's Piece"
+  description: "There are several tales of why it got its name. There is a miniature door at its base. There was a time before sunset, when I walked with a friend who was wondering if you could cross each edge of the square with equal frenquency."
+
+- image: "images/galleries/watercolour/40.JPG"
+  order: "42"
+  title: "Bene't Street"
+  description: "A busy street with many pubs and Jack's gelato, as well as a tourist attraction which had been shut down for a while but lately reopened."
+
+- image: "images/galleries/watercolour/41.JPG"
+  order: "43"
+  title: "Wallenberg Hall"
+  description: "Just some signature view, but not something with a particular personal attachment."
+
+- image: "images/galleries/watercolour/42.JPG"
+  order: "44"
+  title: "Memorial Court"
+  description: "Looking at the Memorial Court on a road with ugly palm trees standing beside you."
+
+- image: "images/galleries/watercolour/43.JPG"
+  order: "45"
+  title: "Main Quad"
+  description: "Very tropical, normally full of sunshine and a ridiculously large number of ugly palm trees."
+
+- image: "images/galleries/watercolour/44.JPG"
+  order: "46"
+  title: "Arizona Garden"
+  description: "Possibly analogous to a small botanic garden - somewhere to visit."
+
+- image: "images/galleries/watercolour/45.JPG"
+  order: "47"
+  title: "Stanford Dish"
+  description: "I've heard that it is a great hiking trail."
+
+- image: "images/galleries/watercolour/46.JPG"
+  order: "48"
+  title: "Fountain in front of the Hoover Tower"
+  description: "I sent this postcard to home although it is likely to have been already lost along its journey..."
+
+- image: "images/galleries/watercolour/47.JPG"
+  order: "49"
+  title: ""
+  description: ""
+
+- image: "images/galleries/watercolour/48.JPG"
+  order: "50"
+  title: "Memorial Church"
+  description: ""
+
+- image: "images/galleries/watercolour/49.JPG"
+  order: "51"
+  title: "Trinity Street"
+  description: "A recurring subject of dreams lately"
+
+- image: "images/galleries/watercolour/50.JPG"
+  order: "52"
+  title: "A random sunset"
+  description: ""
+
+- image: "images/galleries/watercolour/51.JPG"
+  order: "53"
+  title: "Stanford Dish Hiking Trail"
+  description: ""
+
+- image: "images/galleries/watercolour/52.JPG"
+  order: "54"
+  title: "Cold Spring Harbour Laboratory"
+  description: "A research institute that has rejected my summer intern application quite a while ago (and a birthday card to someone whom I have known for more than 18 years)!"
+
+- image: "images/galleries/watercolour/53.JPG"
+  order: "55"
+  title: "Rodin Sculpture Gardin (and more palm trees)"
+  description: "On one side of Keck Science Building and next to the Cantor Art Centre."
+
+- image: "images/galleries/watercolour/54.JPG"
+  order: "56"
+  title: "Assorted bookmarks"
+  description: ""
+
+- image: "images/galleries/watercolour/55.JPG"
+  order: "57"
+  title: "Assorted bookmarks"
+  description: ""
+
+- image: "images/galleries/watercolour/56.JPG"
+  order: "58"
+  title: "An old doodle back in 2022..."
+  description: "Meet Coffee (the tabby ginger) and Frothed Milk (the cotton-candy-like white)!"
+
+- image: "images/galleries/watercolour/57.JPG"
+  order: "59"
+  title: "Assorted bookmarks with dry flowers"
+  description: "Collected from the campus"
+
+- image: "images/galleries/watercolour/58.JPG"
+  order: "60"
+  title: "Sampler platter at a lobster restaurant"
+  description: "Near SFO; I'd say the shrimps and the chowder were really good."
+
+- image: "images/galleries/watercolour/59.JPG"
+  order: "61"
+  title: "United Methodist Church at UNC"
+  description: "One of the very few (but random) takeaways from a recent conference"
+
+- image: "images/galleries/watercolour/60.JPG"
+  order: "62"
+  title: "The Main Quad"
+  description: "Another random but signature scene at Stanford. And Melisa has been a wonderful mentor and office mate! (´；ω；｀)"
+
+- image: "images/galleries/watercolour/61.jpg"
+  order: "63"
+  title: "Fall-themed Birthday Card"
+  description: "To the best roommate in the world, featuring Layla with the dancing autumn leaves."
+
+- image: "images/galleries/watercolour/62.jpg"
+  order: "64"
+  title: "Pop-up Birthday Card (Sequoia)"
+  description: "My first attempt at a pop-up card, to a great mentor and office mate who enjoys hiking and outdoors."
+---
