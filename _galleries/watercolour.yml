@@ -320,4 +320,9 @@ arts:
   order: "64"
   title: "Pop-up Birthday Card (Sequoia)"
   description: "My first attempt at a pop-up card, to a great mentor and office mate who enjoys hiking and outdoors."
+
+- image: "images/galleries/watercolour/mom-birthday.png"
+  order: "65"
+  title: "My recent big project: a pop-up card for mom's birthday!"
+  description: "Featuring several old photos"
 ---
