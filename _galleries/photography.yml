@@ -1,0 +1,263 @@
+---
+name: "photography"
+arts:
+- image: "images/galleries/photography/LA/IMG_2041.JPG"
+  order: "1"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2050.JPG"
+  order: "2"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2051.JPG"
+  order: "3"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2088.JPG"
+  order: "4"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2112.JPG"
+  order: "5"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2216.JPG"
+  order: "6"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2225.JPG"
+  order: "7"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2233.JPG"
+  order: "8"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2235.JPG"
+  order: "9"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2581.JPG"
+  order: "10"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2582.JPG"
+  order: "11"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2596.JPG"
+  order: "12"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2613.JPG"
+  order: "13"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2618.JPG"
+  order: "14"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2625.JPG"
+  order: "15"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2630.JPG"
+  order: "16"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2632.JPG"
+  order: "17"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2636.JPG"
+  order: "18"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2650.JPG"
+  order: "19"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2652.JPG"
+  order: "20"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2653.JPG"
+  order: "21"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2654.JPG"
+  order: "22"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2655.JPG"
+  order: "23"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2659.JPG"
+  order: "24"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2662.JPG"
+  order: "25"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2665.JPG"
+  order: "26"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2670.JPG"
+  order: "27"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2690.JPG"
+  order: "28"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2695.JPG"
+  order: "29"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/LA/IMG_2737.JPG"
+  order: "30"
+  title: "LA"
+  description: "[LA]"
+
+- image: "images/galleries/photography/Haleakalā/IMG_2817.JPG"
+  order: "31"
+  title: "Haleakalā"
+  description: "[Haleakalā]"
+
+- image: "images/galleries/photography/Haleakalā/IMG_2832.JPG"
+  order: "32"
+  title: "Haleakalā"
+  description: "[Haleakalā]"
+
+- image: "images/galleries/photography/Haleakalā/IMG_2849.JPG"
+  order: "33"
+  title: "Haleakalā"
+  description: "[Haleakalā]"
+
+- image: "images/galleries/photography/Haleakalā/IMG_2859.JPG"
+  order: "34"
+  title: "Haleakalā"
+  description: "[Haleakalā]"
+
+- image: "images/galleries/photography/Haleakalā/IMG_2861.JPG"
+  order: "35"
+  title: "Haleakalā"
+  description: "[Haleakalā]"
+
+- image: "images/galleries/photography/Haleakalā/IMG_2862.JPG"
+  order: "36"
+  title: "Haleakalā"
+  description: "[Haleakalā]"
+
+- image: "images/galleries/photography/Haleakalā/IMG_2879.JPG"
+  order: "37"
+  title: "Haleakalā"
+  description: "[Haleakalā]"
+
+- image: "images/galleries/photography/Haleakalā/IMG_2890.JPG"
+  order: "38"
+  title: "Haleakalā"
+  description: "[Haleakalā]"
+
+- image: "images/galleries/photography/Kona/IMG_2986.JPG"
+  order: "39"
+  title: "Kona"
+  description: "[Kona]"
+
+- image: "images/galleries/photography/Kona/IMG_3000.JPG"
+  order: "40"
+  title: "Kona"
+  description: "[Kona]"
+
+- image: "images/galleries/photography/Kona/IMG_3004.JPG"
+  order: "41"
+  title: "Kona"
+  description: "[Kona]"
+
+- image: "images/galleries/photography/Mauna Kea/IMG_3074.JPG"
+  order: "42"
+  title: "Mauna Kea"
+  description: "[Mauna Kea]"
+
+- image: "images/galleries/photography/Mauna Kea/IMG_3084.JPG"
+  order: "43"
+  title: "Mauna Kea"
+  description: "[Mauna Kea]"
+
+- image: "images/galleries/photography/Mauna Kea/IMG_3098.JPG"
+  order: "44"
+  title: "Mauna Kea"
+  description: "[Mauna Kea]"
+
+- image: "images/galleries/photography/Mauna Kea/IMG_3126.JPG"
+  order: "45"
+  title: "Mauna Kea"
+  description: "[Mauna Kea]"
+
+- image: "images/galleries/photography/Mauna Kea/IMG_3170.JPG"
+  order: "46"
+  title: "Mauna Kea"
+  description: "[Mauna Kea]"
+
+- image: "images/galleries/photography/Mauna Kea/IMG_3186.JPG"
+  order: "47"
+  title: "Mauna Kea"
+  description: "[Mauna Kea]"
+
+- image: "images/galleries/photography/Oahu/IMG_3295.JPG"
+  order: "48"
+  title: "Oahu"
+  description: "[Oahu]"
+
+- image: "images/galleries/photography/Oahu/IMG_3312.JPG"
+  order: "49"
+  title: "Oahu"
+  description: "[Oahu]"
+
+- image: "images/galleries/photography/Oahu/IMG_3314.JPG"
+  order: "50"
+  title: "Oahu"
+  description: "[Oahu]"
+
+- image: "images/galleries/photography/Oahu/IMG_3341.JPG"
+  order: "51"
+  title: "Oahu"
+  description: "[Oahu]"
+
+- image: "images/galleries/photography/Oahu/IMG_3342.JPG"
+  order: "52"
+  title: "Oahu"
+  description: "[Oahu]"
+
