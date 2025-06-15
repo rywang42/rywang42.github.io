@@ -335,4 +335,14 @@ arts:
   order: "67"
   title: "Memorial Church"
   description: ""
+
+- image: "images/galleries/watercolour/the-oval.jpg"
+  order: "68"
+  title: "The Oval"
+  description: ""
+
+- image: "images/galleries/watercolour/stanford-bookmarks.jpg"
+  order: "69"
+  title: "Assorted bookmarks featuring places on campus"
+  description: ""
 ---
