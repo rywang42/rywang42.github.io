@@ -1,8 +1,3 @@
-- title: "watercolour"
-  href: "/watercolour/"
-
-- title: "photography"
-  href: "/photography/"
 
 # - title: "covers"
 #   href: "/covers/"
@@ -34,8 +29,14 @@
 - title: "about"
   href: "/about/"
 
-# - title: "resume"
-#   href: "/resume/"
+- title: "resume"
+  href: "/resume/"
+  
+- title: "watercolour"
+  href: "/watercolour/"
+
+- title: "photography"
+  href: "/photography/"
 
 # - title: "contact"
 #   href: "/contact/"
