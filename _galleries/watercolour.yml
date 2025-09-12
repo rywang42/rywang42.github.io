@@ -345,4 +345,9 @@ arts:
   order: "69"
   title: "Assorted bookmarks featuring places on campus"
   description: ""
+
+- image: "images/galleries/watercolour/yosemite-valley.jpg"
+  order: "70"
+  title: "A random corner of Yosemite Valley"
+  description: ""
 ---

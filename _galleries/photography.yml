@@ -261,3 +261,23 @@ arts:
   title: "Oahu"
   description: "[Oahu]"
 
+- image: "images/galleries/photography/Yosemite/IMG_3431.jpg"
+  order: "53"
+  title: "Yosemite"
+  description: "[Yosemite]"
+
+- image: "images/galleries/photography/Yosemite/IMG_3576.jpg"
+  order: "54"
+  title: "Yosemite"
+  description: "[Yosemite]"
+
+- image: "images/galleries/photography/Yosemite/IMG_3589.jpg"
+  order: "55"
+  title: "Yosemite"
+  description: "[Yosemite]"
+
+- image: "images/galleries/photography/Yosemite/IMG_3627.jpg"
+  order: "56"
+  title: "Yosemite"
+  description: "[Yosemite]"
+
