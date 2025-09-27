@@ -32,6 +32,11 @@ rywang42 at outlook dot com OR rywang42 at stanford dot edu • [https://rywang4
 ### [Stanford University](https://www.stanford.edu/) *Stanford, CA, USA*
 **Graduate Research Assistant** (February 2024 -- Present)
 Advisor: [Professor Todd J. Martínez](https://mtzweb.stanford.edu/)
+- **GPU-native DF-CASSCF (TeraChem)** — designed and implemented density-fitting ERI construction and GPU kernels (McMurchie–Davidson integrals, 2/3-center routines). Focuses include integral recasting as BLAS-friendly tensor contractions, memory-hierarchy optimizations, and Nsight-driven bottleneck elimination.
+- **Mixed-precision strategies & kernel engineering** — performed experiments with TF32/FP16 emulation and precision-binning of integrals to trade accuracy and throughput on AI-optimized tensor units.
+- **Sparsity-aware THC research** — prototyped Tensor Hyper-Contraction for multireference methods.
+- **Nanoreactor / AI + simulation integration** — benchmarked DFT vs ML interatomic potentials and developed automated reaction-cycle detection and manifold-learning analyses.
+- **Software engineering & tooling** — refactored and modularized TeraChem components (C/C++), maintained and upgraded the Nanoreactor codebase (Python), added testing/CI-friendly interfaces, and profiled/optimized kernels for multi-GPU workflows.
 
 **Graduate Teaching Assistant** (September 2023 -- June 2024)
 General chemistry (CHEM31M, Fall 2023) and organic chemistry (CHEM33, Winter & Spring 2024)
