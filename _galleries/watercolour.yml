@@ -349,5 +349,10 @@ arts:
 - image: "images/galleries/watercolour/yosemite-valley.jpg"
   order: "70"
   title: "A random corner of Yosemite Valley"
-  description: ""
+  description: "Seems to signify the beginning of some sort of adventures, or perhaps not necessarily since it had already started anyway"
+
+- image: "images/galleries/watercolour/santa-clara-beach.jpg"
+  order: "71"
+  title: "A gate to Santa Clara Beach"
+  description: "It looks dreamy with a special South Californian vibe"
 ---
