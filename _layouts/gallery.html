@@ -4,7 +4,7 @@ layout: default
 <div class="masonry">
     <div>  {% for gallery in site.galleries %} {% if gallery.name == page.title %} {% assign reversed_arts = gallery.arts | reverse %} {% for art in reversed_arts %}
         <div class="masonry-panel">
-            <a href="#{{ art.order }}" data-caption-desc="{{ art.description }}">
+            <a href="#{{ art.order }}" data-caption-desc="{{ art.description | strip_html | escape }}">
                 <img src="{{ site.github.url }}/{{ art.image }}" alt="{{ art.title }}"class="zoom">
             </a>
         </div>{% endfor %} {% endif %} {% endfor %}

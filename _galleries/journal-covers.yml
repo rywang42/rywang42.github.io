@@ -1,0 +1,28 @@
+---
+name: "journal-covers"
+arts:
+- image: "images/galleries/covers/jctcce.2026.22.issue-7.xlargecover-2.jpg"
+  order: "1"
+  title: "Journal of Chemical Theory and Computation"
+  description: >
+    <a href="https://pubs.acs.org/doi/10.1021/acs.jctc.5c02079" target="_blank" rel="noopener noreferrer">Related paper</a></br>
+    April 14, 2026, Volume 22, Issue 7, pp. 3127–3778.
+    Artistic rendition of photon absorption by a photoacid, followed by excited-state
+    proton transfer, nonadiabatic transition through a conical intersection, and
+    ground-state relaxation.
+
+- image: "images/galleries/covers/cell_metabolism.jpg"
+  order: "2"
+  title: "Cell Metabolism"
+  description: >
+    <a href="https://www.cell.com/cell-metabolism/fulltext/S1550-4131(26)00111-7" target="_blank" rel="noopener noreferrer">Related paper</a><br>
+    May 5, 2026, Volume 38, Issue 5, pp. 833–1050.
+    Under a starlit sky,
+    a mouse sits contentedly beside protein-rich cheese, its appetite quelled. The cosmos
+    above tells the story—clouds sculpted into the arcuate nucleus cradle constellations
+    forming the T-type calcium channel Cav3.1, while leucine-shaped shooting stars rain
+    down upon them. This celestial tableau captures the discovery by Tsang et al. that
+    leucine directly binds Cav3.1 in hypothalamic POMC neurons, lowering its activation
+    threshold and triggering satiety, revealing a molecular sensor linking dietary protein
+    to appetite suppression.
+---
