@@ -25,4 +25,17 @@ arts:
     leucine directly binds Cav3.1 in hypothalamic POMC neurons, lowering its activation
     threshold and triggering satiety, revealing a molecular sensor linking dietary protein
     to appetite suppression.
+
+- image: "images/galleries/covers/2026jacs.jpg"
+  order: "3"
+  title: "Journal of the American Chemical Society"
+  description: >
+    <a href="" target="_blank" rel="noopener noreferrer">Related paper (unpublished)</a><br>
+    
+- image: "images/galleries/covers/2026jpca.jpg"
+  order: "4"
+  title: "Journal of Physical Chemistry A"
+  description: >
+    <a href="" target="_blank" rel="noopener noreferrer">Related paper (unpublished)</a><br>
+    
 ---
