@@ -26,15 +26,17 @@ arts:
     threshold and triggering satiety, revealing a molecular sensor linking dietary protein
     to appetite suppression.
 
-- image: "images/galleries/covers/2026jacs.png"
+- image: "images/galleries/covers/jpcafh.2026.130.issue-27.xlargecover-2.png"
   order: "3"
-  title: "Journal of the American Chemical Society"
-  description: >
-    <a href="" target="_blank" rel="noopener noreferrer">Related paper (unpublished)</a><br>
-    
-- image: "images/galleries/covers/2026jpca.png"
-  order: "4"
   title: "Journal of Physical Chemistry A"
+  description: >
+    <a href="https://doi.org/10.1021/acs.jpca.6c02145" target="_blank" rel="noopener noreferrer">Related paper</a><br>
+    July 9, 2026, Volume 130, Issue 27, pp. 5115-5308.
+    Schematic depiction of a photoexcited dihydroazulene molecule after photoexcitation.
+    
+- image: "images/galleries/covers/2026jacs.png"
+  order: "4"
+  title: "Journal of American Chemical Society"
   description: >
     <a href="" target="_blank" rel="noopener noreferrer">Related paper (unpublished)</a><br>
     
